@@ -29,3 +29,6 @@ keeper/data/tasks.json
 
 # Backup configuration (contains sensitive credentials)
 scripts/.env.backup
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
